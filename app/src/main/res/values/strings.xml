@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Midterm2</string>
+    <string name="id">ID:</string>
+    <string name="name">Name:</string>
+    <string name="email">Email:</string>
+    <string name="Phnumber">Phone number</string>
+    <string name="m2">Go to MainActivity2</string>
+    <string name="search">Enter ID to search</string>
+    <string name="srcbtn">Search</string>
+    <string name="m1">Go to Main activity 1</string>
+    <string name="m3">Go to MainActivity 3</string>
+    <string name="welcome">Welcome to the project of Layali Elkordy 191227</string>
+</resources>
